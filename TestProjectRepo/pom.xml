@@ -14,9 +14,10 @@
 	<name>TestProjectRepo</name>
 	<description>Demo project for Spring Boot</description>
 
+
 <!-- poa11-->
 
-<!-- suresh11 -->
+
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
